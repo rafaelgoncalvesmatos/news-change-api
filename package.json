@@ -4,7 +4,7 @@
   "description": "Sorry my english, I`m begging this language.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm install ; node index.js"
   },
   "repository": {
     "type": "git",
