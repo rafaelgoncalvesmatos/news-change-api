@@ -70,6 +70,10 @@ app.get('/', (req, res) => {
   res.json(`Welcome ${USER} to my Climate Change New API`)
 })
 
+app.get('/health', (req, res) => {
+  res.json({'status': 'OK'})
+})
+
 app.get('/news', (req, res) => {
   res.json(articles)
 })
