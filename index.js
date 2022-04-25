@@ -5,6 +5,8 @@ const port = 3000
 const axios = require('axios')
 const cheerio = require('cheerio')
 
+// for start this app on package.json "node index.js" and prompt command "npm run start"
+
 var word = "bolsonaro"
 
 const news = [

@@ -4,11 +4,16 @@
   "description": "Sorry my english, I`m begging this language.",
   "main": "index.js",
   "scripts": {
-    "start": "npm install ; node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafaelgoncalvesmatos/news-change-api.git"
+  },
+  "dependencies": {
+    "axios": "*",
+    "cheerio": "*",
+    "express": "*"
   },
   "author": "",
   "license": "ISC",
