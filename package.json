@@ -1,17 +1,19 @@
 {
-  "name": "climate-change-api",
+  "name": "news-change-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sorry my english, I`m begging this language.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon start index.js"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgoncalvesmatos/news-change-api.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.23.0",
-    "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.1",
-    "nodemon": "^2.0.15"
-  }
+  "bugs": {
+    "url": "https://github.com/rafaelgoncalvesmatos/news-change-api/issues"
+  },
+  "homepage": "https://github.com/rafaelgoncalvesmatos/news-change-api#readme"
 }
