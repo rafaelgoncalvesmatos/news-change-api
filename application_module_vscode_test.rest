@@ -1,0 +1,13 @@
+### Para um bom funcionamento da extencao adicionar o complemento REST Client no VSCode
+
+GET https://eurekadigital-optimized.s3-sa-east-1.amazonaws.com/prod/cover/zEly5km8_r20qY28Q5LINGUAGENS_variacao%25201.jpg
+
+###
+GET http://localhost:8080
+
+
+### HC
+GET http://localhost:8080/health
+
+### News
+GET http://localhost:8080/news
